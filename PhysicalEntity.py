@@ -1,3 +1,5 @@
+from Entity import Entity
+
 class PhysicalEntity(Entity):
 	"""Classe abstraite définissant une entité physique, soit tout objet ayant une masse et des collisions
 	
