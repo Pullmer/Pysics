@@ -3,6 +3,10 @@ class PhysicalEntity(Entity):
 	
 	Attributs :
 	- masse
+	- vitesse
+	- accélération
+	- vitesse de rotation
+	- axe de rotation instantané
 	
 	
 	"""
