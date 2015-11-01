@@ -1,4 +1,4 @@
-def Scene:
+class Scene:
 
 	"""Objet définissant une scène
 	
@@ -8,4 +8,4 @@ def Scene:
 	
 	"""
 	
-	
+	"""inserer constructeur"""
